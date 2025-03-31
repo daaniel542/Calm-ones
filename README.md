@@ -1,2 +1,2 @@
 # Calm-ones
-Side projects
+These are all of Daniel Yang's side projects
